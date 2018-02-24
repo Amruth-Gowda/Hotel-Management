@@ -1,0 +1,13 @@
+Hotel Management
+--------------------------
+Admin(Receptionist):
+- Add food
+- View orders
+- View room bookings
+- View customers
+
+User(Customers):
+- Register
+- Login 
+- Book a room
+- Order Food
